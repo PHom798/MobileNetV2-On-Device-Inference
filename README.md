@@ -17,7 +17,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-FF6F00?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-lightgrey?style=flat-square)
 ![Model Size](https://img.shields.io/badge/model%20size-~14MB-green?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-success?style=flat-square)
 
 ---
