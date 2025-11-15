@@ -28,6 +28,9 @@
 ### 🚀 Bringing Computer Vision to Your Pocket
 *Complete on-device image classification with zero latency and maximum privacy*
 
+</div>
+
+
 <div align="center">
   
   <video src="https://github.com/user-attachments/assets/01011b4a-55cf-4fe4-a5b8-b57ca593707d" controls width="100%" ></video>
