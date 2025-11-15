@@ -62,6 +62,22 @@
 
 ---
 
+
+## 🎥 Previews
+
+<div align="left">
+  <table>
+    <tr>
+      <td><img src="shots/imagea.png" alt="Colorful QR Example 1"  width="800" /></td>
+      <td>  <video src="https://github.com/user-attachments/assets/a2efc950-3d40-469c-a1cb-1b973749c557" controls width="50%"></video></td>
+      <td><img src="shots/imageb.png" alt="Colorful QR Example 2"  width="800" /></td>
+    </tr>
+  </table>
+</div>
+
+
+---
+
 ## 🏗️ Architecture
 
 
