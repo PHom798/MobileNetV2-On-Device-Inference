@@ -23,6 +23,7 @@
 
 
 ---
+<div align="center">
 
 ### 🚀 Bringing Computer Vision to Your Pocket
 *Complete on-device image classification with zero latency and maximum privacy*
