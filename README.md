@@ -19,12 +19,21 @@
 ![Model Size](https://img.shields.io/badge/model%20size-~14MB-green?style=flat-square)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-success?style=flat-square)
 
+</div>
+
+
 ---
 
 ### 🚀 Bringing Computer Vision to Your Pocket
 *Complete on-device image classification with zero latency and maximum privacy*
 
+<div align="center">
+  
+  <video src="https://github.com/user-attachments/assets/01011b4a-55cf-4fe4-a5b8-b57ca593707d" controls width="100%" ></video>
+
 </div>
+
+
 
 ---
 
@@ -50,6 +59,8 @@
 ---
 
 ## 🏗️ Architecture
+
+
 
 ```
 ┌─────────────────┐
