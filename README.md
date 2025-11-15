@@ -250,20 +250,6 @@ class ModelConfig {
 
 ---
 
-## 🎯 Performance
-
-### Device Benchmarks
-
-| Device | Platform | Inference Time | Memory |
-|--------|----------|----------------|--------|
-| Pixel 7 | Android | ~25ms | ~50MB |
-| iPhone 14 | iOS | ~20ms | ~45MB |
-| Samsung S21 | Android | ~30ms | ~55MB |
-| iPhone 12 | iOS | ~28ms | ~48MB |
-
-*Benchmarks measured with production build on real devices*
-
----
 
 ## 🌟 Key Advantages
 
@@ -290,17 +276,6 @@ class ModelConfig {
 
 ---
 
-## 🛣️ Roadmap
-
-- [ ] Add MobileNetV3 support
-- [ ] Implement custom model training pipeline
-- [ ] GPU acceleration (CoreML/TensorFlow Lite)
-- [ ] Real-time video classification
-- [ ] Model quantization for smaller size
-- [ ] Transfer learning examples
-- [ ] Batch inference support
-
----
 
 ## 🤝 Contributing
 
@@ -314,12 +289,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **MobileNetV2** - [Sandler et al., 2018](https://arxiv.org/abs/1801.04381)
@@ -329,20 +298,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact
-
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/mobilenetv2-flutter](https://github.com/yourusername/mobilenetv2-flutter)
-
----
-
 <div align="center">
 
 ### ⭐ Star this repo if you find it useful!
 
 **Made with ❤️ and Flutter**
 
-[Report Bug](https://github.com/yourusername/mobilenetv2-flutter/issues) · [Request Feature](https://github.com/yourusername/mobilenetv2-flutter/issues)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
