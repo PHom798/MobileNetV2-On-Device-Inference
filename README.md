@@ -65,12 +65,12 @@
 
 ## 🎥 Previews
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
-      <td><img src="shots/imagea.png" alt="Colorful QR Example 1"  width="800" /></td>
-      <td>  <video src="https://github.com/user-attachments/assets/a2efc950-3d40-469c-a1cb-1b973749c557" controls width="50%"></video></td>
-      <td><img src="shots/imageb.png" alt="Colorful QR Example 2"  width="800" /></td>
+      <td><img src="shots/image2.jpg" alt="Colorful QR Example 1"  width="274" /></td>
+      <td><video src="https://github.com/user-attachments/assets/9a95dc48-c066-4ea5-940d-4d8f08d0e7a3" controls width="50%"></video></td>
+      <td><img src="shots/image1.jpg" alt="Colorful QR Example 1"  width="274" /></td>
     </tr>
   </table>
 </div>
