@@ -300,13 +300,6 @@ class ModelConfig {
 
 ---
 
-## 📱 Screenshots
-
-*Add your app screenshots here*
-
----
-
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
