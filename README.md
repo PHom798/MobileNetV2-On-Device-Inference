@@ -146,7 +146,7 @@ dependencies:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/mobilenetv2-flutter.git
+https://github.com/PHom798/MobileNetV2-On-Device-Inference.git
 cd mobilenetv2-flutter
 ```
 
@@ -163,7 +163,7 @@ flutter pub get
    flutter:
      assets:
        - assets/models/mobilenetv2.onnx
-       - assets/imagenet_classes.txt
+       - assets/labels/imagenet_classes.txt
    ```
 
 4. **Run the app**
