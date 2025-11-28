@@ -61,8 +61,10 @@
 - **Top-K Selection**: Returns top N predictions with scores
 
 ---
+### ✨ Learn
+Check out my blog post on [Mastering On-Device ML in Flutter: A Guide to Softmax, Top-K, and Confidence Checks](https://codefluxlab.hashnode.dev/mastering-on-device-ml-in-flutter-a-guide-to-soft-max-top-k-and-confidence-checks) for more insights on implementing machine learning models efficiently.
 
-
+---
 ## 🎥 Previews
 
 <div align="center">
